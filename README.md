@@ -8,3 +8,4 @@ Elektroniskā klade Datormācība (pamatkurss) studiju kursam
 
 
 [^1]: [StackEdit sandbox](https://stackedit.io/app#)
+
