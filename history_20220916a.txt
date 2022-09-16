@@ -1,0 +1,55 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  cd .
+    5  pwd
+    6  ps
+    7  ps aux
+    8  man ps
+    9  ps aux
+   10  ps aux | grep firefox
+   11  ps aux | grep chrome
+   12  kill 2839
+   13  pwd
+   14  ls -l
+   15  cd .
+   16  pwd
+   17  who
+   18  whoami
+   19  echo $0
+   20  uname
+   21  man uname
+   22  uname
+   23  uname -a
+   24* 
+   25  ls -l
+   26  ls -lt
+   27  ls -l
+   28  ls -lt
+   29  gi clone https://github.com/tatusmatrix/RTR105_2022_V02
+   30  git clone https://github.com/tatusmatrix/RTR105_2022_V02
+   31  mkdir RTR105_2022_V02
+   32  git clone https://github.com/tatusmatrix/RTR105_2022_V02 RTR105
+   33  ls -lt
+   34  ls -l
+   35  ls -lt
+   36  rmdir RTR105
+   37  man rmdir
+   38  rmdir --ignore-fail-on-non-empty RTR105
+   39  ls -lt
+   40  rm RTR105
+   41  man rm
+   42  rm -r RTR105
+   43  man rm
+   44  rm -rf RTR105
+   45  ls -lt
+   46  rm -rf RTR105_2022_V02/
+   47  ls -lt
+   48  pwd
+   49  ls -lt
+   50  git clone https://github.com/tatusmatrix/RTR105_2022_V02
+   51  ls -lt
+   52  history 
+   53  history > history_20220916a.txt
+--------
+========
