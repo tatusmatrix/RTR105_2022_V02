@@ -93,3 +93,68 @@
    93  ls -lt
    94  chmod 744 git-upload 
    95  history > history_20220923.txt 
+   96  ls -lt
+   97  git-upload
+   98  cd
+   99  pwd
+  100  cd
+  101  pwd
+  102  ls -lt
+  103  git clone https://github.com/tatusmatrix/RTR105_2022_V02
+  104  pwd
+  105  rm -rf RTR105_2022_V02/
+  106  ls -lt
+  107  pwd
+  108  ls -lt
+  109  pwd
+  110  ls -lt
+  111  git clone https://github.com/tatusmatrix/RTR105_2022_V02
+  112  cd RTR105_2022_V02/
+  113  pwd
+  114  ls -lt
+  115  cat git-upload 
+  116  nano git-upload 
+  117  pwd
+  118  ls -lt
+  119  nano linux_special_variables_test.sh
+  120  ls -lt
+  121  chmod 744 linux_special_variables_test.sh 
+  122  ls -lt
+  123  pwd
+  124  nano linux_special_variables_test.sh
+  125  ls -lt
+  126  linux_special_variables_test.sh 
+  127  cat linux_special_variables_test.sh 
+  128  linux_special_variables_test.sh 
+  129  mv linux_special_variables_test.sh test.sh
+  130  ls -lt
+  131  test.sh
+  132  nano test.sh 
+  133  test.sh
+  134  nano test.sh 
+  135  cat test.sh 
+  136  test.sh
+  137  /home/user/RTR105_2022_V02/test.sh 
+  138  test.sh
+  139  nano test.sh 
+  140  test.sh
+  141  mv test.sh linux_special_variables_test.sh
+  142  ls -lt
+  143  linux_special_variables_test.sh 
+  144  linux_special_variables_test.sh arg1
+  145  linux_special_variables_test.sh arg1 arg2
+  146  linux_special_variables_test.sh arg1 arg2 arg3
+  147  mv
+  148  linux_special_variables_test.sh arg1 arg2 arg3
+  149  linux_special_variables_test.sh arg1000
+  150  linux_special_variables_test.sh arg1000 arg2000
+  151  ls -lt
+  152  cat linux_special_variables_test.sh 
+  153  linux_special_variables_test.sh arg1000 arg2000
+  154  cat linux_special_variables_test.sh 
+  155  linux_special_variables_test.sh A1 B1
+  156  linux_special_variables_test.sh C2 D2
+  157  ls -lt
+  158  nano git-upload 
+  159  cat git-upload 
+  160  history > history_20220923.txt 
