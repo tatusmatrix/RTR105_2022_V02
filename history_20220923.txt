@@ -158,3 +158,20 @@
   158  nano git-upload 
   159  cat git-upload 
   160  history > history_20220923.txt 
+  161  git-upload 05
+  162  ls
+  163  echo $?
+  164  lss
+  165  echo $?
+  166  pwdd
+  167  echo $?
+  168  cp hello-world /bin/
+  169  echo $?
+  170  hello-world 
+  171  pwd
+  172  echo $PATH
+  173  hello-world 
+  174  ./hello-world 
+  175  ./git-upload 05+
+  176  ls -lt
+  177  history > history_20220923.txt 
