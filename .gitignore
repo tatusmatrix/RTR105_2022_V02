@@ -1,0 +1,5 @@
+# ignorēt izpildāmus failus - failus ar paplašinājumu out
+*.out
+
+# ignorēt objektu failus - failus ar paplašinājumu o
+*.o
