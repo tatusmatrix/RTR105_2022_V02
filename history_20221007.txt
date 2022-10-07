@@ -1,0 +1,61 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo "fgdg;kd" > a.txt
+    4  ls -lt
+    5  cat a.txt 
+    6  hexdump -C a.txt 
+    7  echo "1234" > a.txt
+    8  ls -lt a.txt 
+    9  echo "5678" >> a.txt
+   10  ls -lt a.txt 
+   11  cat a.txt 
+   12  hexdump -C a.txt 
+   13  nano
+   14  echo "f;gj;rgk;dsf;k fn fn khlkgr;;ew;"
+   15  nano
+   16  echo "012345\n6789\tabcde\vfghijk\blmnop\rqr"
+   17  man echo 
+   18  echo -e "012345\n6789\tabcde\vfghijk\blmnop\rqr"
+   19  echo -e "012345\n6789\tabcde\vfghijk\blmnop\rqr\a"
+   20  echo -e "\a\a\a\a"
+   21  echo ";f;dsl"
+   22  man echo
+   23  echo -e "012345\n6789\tabcde\vfghijk\blmnop\rqr\a"
+   24  git clone https://github.com/tatusmatrix/RTR105_2022_V02
+   25  cd RTR105_2022_V02/
+   26  ls -lt
+   27  mkdir Class_08
+   28  cd Class_08/
+   29  pwd
+   30  nano uzdevums.txt
+   31  nano class_08_printf_test.c
+   32  nano class_08_scanf_test/* scanf example */.c
+   33  nano class_08_scanf_test.c
+   34  pwd
+   35  ls -lt
+   36  cat uzdevums.txt 
+   37  ls -lt
+   38  cat class_08_printf_test.c 
+   39  cat ../.gitignore
+   40  gcc class_08_printf_test.c printf_test.out
+   41  gcc class_08_printf_test.c -o printf_test.out
+   42  ls -lt
+   43  ./printf_test.out 
+   44  ls -lt
+   45  cat class_08_printf_test.c 
+   46  ./printf_test.out 
+   47  nano class_08_printf_test.c 
+   48  ls -lt
+   49  gcc class_08_printf_test.c -o printf_test.out
+   50  nano class_08_printf_test.c 
+   51  gcc -save-temps class_08_printf_test.c -o printf_test.out
+   52  ls -lt
+   53  cat class_08_printf_test.i 
+   54  nano class_08_printf_test.c 
+   55  cat class_08_printf_test.c
+   56  ./printf_test.out 
+   57  gcc class_08_scanf_test.c scanf_test.out
+   58  gcc class_08_scanf_test.c -o scanf_test.out
+   59  ./scanf_test.out 
+   60  cd ..
+   61  history > history_20221007.txt
