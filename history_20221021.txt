@@ -1,0 +1,49 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/tatusmatrix/RTR105_2022_V02
+    4  cd RTR105_2022_V02/
+    5  mkdir Class_10
+    6  cd Class_10/
+    7  pwd
+    8  nano operations_tests.c
+    9  cd ..
+   10  ./git-upload 10
+   11  cd Class_10/
+   12  ls -lt
+   13  nano operations_tests.c 
+   14  gcc operations_tests.c 
+   15  ./a.out 
+   16  nano operations_tests.c 
+   17  gcc operations_tests.c 
+   18  nano operations_tests.c 
+   19  gcc operations_tests.c 
+   20  ./a.out 
+   21  nano operations_tests.c 
+   22  gcc operations_tests.c 
+   23  ./a.out 
+   24  nano operations_tests.c 
+   25  gcc operations_tests.c 
+   26  nano operations_tests.c 
+   27  gcc operations_tests.c 
+   28  ./a.out 
+   29  nano operations_tests.c 
+   30  gcc operations_tests.c 
+   31  ./a.out 
+   32  nano operations_tests.c 
+   33  gcc operations_tests.c 
+   34  nano operations_tests.c 
+   35  cd ..
+   36  mkdir Class_11
+   37  cd Class_11/
+   38  pwd
+   39  nano if_tests.c
+   40  gcc if_tests.c 
+   41  ./a.out 
+   42  nano if_tests.c
+   43  gcc if_tests.c 
+   44  nano if_tests.c
+   45  gcc if_tests.c 
+   46  ./a.out 
+   47  nano if_tests.c
+   48  cd ..
+   49  history > history_20221021.txt
