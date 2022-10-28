@@ -1,0 +1,75 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/tatusmatrix/RTR105_2022_V02
+    4  cd RTR105_2022_V02/
+    5  ls -lt
+    6  mkdir Class_12
+    7  cd Class_12/
+    8  pwd
+    9  nano loops.txt
+   10  cp loops.txt while_tests.c
+   11  ls -lt
+   12  nano while_tests.c 
+   13  gcc while_tests.c 
+   14  ls -lt
+   15  ./a.out 
+   16  nano while_tests.c 
+   17  gcc while_tests.c 
+   18  ./a.out 
+   19  nano while_tests.c 
+   20  gcc while_tests.c 
+   21  ./a.out 
+   22  nano while_tests.c 
+   23  gcc while_tests.c 
+   24  ./a.out 
+   25  nano while_tests.c 
+   26  cat while_tests.c 
+   27  nano while_tests.c 
+   28  gcc while_tests.c 
+   29  ./a.out 
+   30  nano while_tests.c 
+   31  gcc while_tests.c 
+   32  ./a.out 
+   33  nano while_tests.c 
+   34  cp while_tests.c for_tests.c
+   35  nano for_tests.c
+   36  gcc for_tests.c
+   37  ./a.out 
+   38  nano for_tests.c
+   39  gcc for_tests.c
+   40  ./a.out 
+   41  nano for_tests.c
+   42  gcc for_tests.c
+   43  ./a.out 
+   44  nano for_tests.c
+   45  gcc for_tests.c
+   46  ./a.out 
+   47  nano for_tests.c
+   48  gcc for_tests.c
+   49  ./a.out 
+   50  nano for_tests.c
+   51  cp while_tests.c do_while_tests.c
+   52  nano do_while_tests.c
+   53  gcc do_while_tests.c
+   54  ./a.out 
+   55  nano do_while_tests.c
+   56  nano factorial.c
+   57  gcc factorial.c
+   58  ./a.out 
+   59  nano factorial.c
+   60  gcc factorial.c
+   61  ./a.out 
+   62  nano factorial.c
+   63  y
+   64  gcc factorial.c
+   65  ./a.out 
+   66  ls -lt
+   67  gcc factorial.c -o without.out
+   68  ls -lt
+   69  gcc -g factorial.c -o with.out
+   70  ls -lt
+   71  gdb with.out
+   72  cd ..
+   73  ls -lt
+   74  pwd
+   75  history > history_20221028.txt
