@@ -1,0 +1,32 @@
+NB!!!!!!!!!!!! - prof. J.Ziemelis Ievads algoritmu valodā C
+               - www
+
+1. Class_16 (10:15 - 11:15)
+
+Atvērts un izmģināt piemērus no (simbolu _masīvi_):
+https://www.programiz.com/c-programming/c-strings
+
+Uzdevumi:
+* Palūgt lietotājam ievadīt kādu teikumu un tad parādīt teikuma statistiku (1)
+  a b c d e f g ...
+  5 2 1 0 1 3 0 ...
+
+** Palūgt lietotājam ievadīt kādu teikumu un tad parādīt teikuma statistiku (2)
+cik ir vārdu, kuru garums ir lielāks par 5 simboliem
+
+*** Palūgt lietotājam ievadīt kādu skaitli
+ja skaitlis satur kļūdu (burtu vai kādu citu simbolu - ne ciparu un ne punktu), tad
+likt lietotājam atkārtoti ievadīt skaitli ...
+---------------------------------------------------
+
+2. Class_17 (11:20 - 11:50)
+
+Izmēģināt datu ierakstu un nolasīšanu no faila
+(NB! divu veidu - teksta faili un bināri faili)
+https://github.com/tatusmatrix/RTR105_2022_V01/tree/main/Class_17
+---------------------------------------------------
+
+3. Class_18 (11:50 - mājās)
+
+Iepazīties ar Teilora rindām (konkrēti, Teilora rindu sin funkcijai)
+ORTUS -> 17. nodarbība - alg - series
